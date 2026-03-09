@@ -21,4 +21,4 @@ Here are a few things I'm currently building and experimenting with:
 
 I'm always learning and improving, and this GitHub is where I document that journey.
 
-Outside of work I enjoy learning about systems, experimenting with automation, and finding ways to simplify repetitive tasks.
+# Outside of work I enjoy learning about systems, experimenting with automation, and finding ways to simplify repetitive tasks.
