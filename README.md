@@ -1,6 +1,6 @@
 # Hi, I'm Sameera 👋
 
-I currently work in operations at Amazon and have spent the last 5+ years solving process problems and improving workflows. Over time I became very interested in the technical side of things — especially automation, debugging systems, and understanding how backend services work.
+I currently work in operations at Amazon and have spent the last 5+ years solving process problems and improving workflows. Over time I became very interested in the technical side of things especially automation, debugging systems, and understanding how backend services work.
 
 I enjoy building small tools that reduce manual work and make processes more efficient. Right now I'm focusing on learning more about APIs, system troubleshooting, and log analysis.
 
@@ -21,4 +21,4 @@ Here are a few things I'm currently building and experimenting with:
 
 I'm always learning and improving, and this GitHub is where I document that journey.
 
-# Outside of work I enjoy learning about systems, experimenting with automation, and finding ways to simplify repetitive tasks.
+## Outside of work I enjoy learning about systems, experimenting with automation, and finding ways to simplify repetitive tasks.
