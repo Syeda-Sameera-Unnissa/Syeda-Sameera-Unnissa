@@ -2,7 +2,7 @@
 
 I work in operations at Amazon and I'm transitioning into a technical role. I have a BTech in CSE (2017) and I'm currently pursuing my MTech.
 
-Right now I'm building my technical skills through structured, hands-on learning — starting with SQL and working through Linux, Networking, AWS, and Python over the next several months.
+Right now I'm building my technical skills through structured, hands-on learning; starting with SQL and working through Linux, Networking, AWS, and Python over the next several months.
 
 ---
 
