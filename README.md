@@ -25,7 +25,7 @@ Right now I'm building my technical skills through structured, hands-on learning
 I believe in learning by building, so each phase of my roadmap includes a hands-on project with real datasets and real tools. This GitHub is where I document that journey — including the messy parts.
 
 ## 📫 Connect With Me
-- (https://www.linkedin.com/in/your-link-here)](https://www.linkedin.com/in/syeda-sameera/)
+- (https://www.linkedin.com/in/syeda-sameera/)
 
 ---
 
