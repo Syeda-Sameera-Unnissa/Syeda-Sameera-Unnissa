@@ -1,24 +1,32 @@
 # Hi, I'm Sameera 👋
 
-I currently work in operations at Amazon and have spent the last 5+ years solving process problems and improving workflows. Over time I became very interested in the technical side of things especially automation, debugging systems, and understanding how backend services work.
+I work in operations at Amazon and I'm transitioning into a technical role. I have a BTech in CSE (2017) and I'm currently pursuing my MTech.
 
-I enjoy building small tools that reduce manual work and make processes more efficient. Right now I'm focusing on learning more about APIs, system troubleshooting, and log analysis.
+Right now I'm building my technical skills through structured, hands-on learning — starting with SQL and working through Linux, Networking, AWS, and Python over the next several months.
 
-## Skills I'm working with
-- Python scripting
-- Linux basics
-- API debugging and testing
-- Log analysis
-- Process automation
+---
 
-## Projects
-Here are a few things I'm currently building and experimenting with:
+## 🔭 What I'm Doing Now
+- 📊 Building SQL skills through daily practice and real-world analysis → [sql-practice](https://github.com/Syeda-Sameera-Unnissa/sql-practice)
+- 🗺️ Following a 22-week technical roadmap → [tech-transition-roadmap](https://github.com/Syeda-Sameera-Unnissa/tech-transition-roadmap)
 
-- **API Debugging Lab** – practice environment for understanding API failures and responses  
-- **Log Analysis Tool** – a small script that parses logs and summarizes errors  
-- **System Monitoring Script** – checks system resources and prints alerts  
-- **Automation Scripts** – scripts that automate repetitive workflows  
+## 📅 What's Coming Next
+- Linux fundamentals & bash scripting
+- Networking & troubleshooting
+- AWS (targeting Cloud Practitioner certification)
+- Python for automation
 
-I'm always learning and improving, and this GitHub is where I document that journey.
+## 🎯 Target Roles
+- AWS Cloud Support Associate
+- Technical Support Engineer
+- IT Support Engineer
 
-## Outside of work I enjoy learning about systems, experimenting with automation, and finding ways to simplify repetitive tasks.
+## 💡 About My Approach
+I believe in learning by building, so each phase of my roadmap includes a hands-on project with real datasets and real tools. This GitHub is where I document that journey — including the messy parts.
+
+## 📫 Connect With Me
+- (https://www.linkedin.com/in/your-link-here)](https://www.linkedin.com/in/syeda-sameera/)
+
+---
+
+*This profile is updated regularly as I progress through my learning roadmap.*
