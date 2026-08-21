@@ -1,32 +1,61 @@
 # Hi, I'm Sameera 👋
 
-I work in operations at Amazon and I'm transitioning into a technical role. I have a BTech in CSE (2017) and I'm currently pursuing my MTech.
+**Operations → Engineering.** I've spent 5+ years at Amazon solving problems by building software — automation and AI tools adopted program-wide that save ~850 hours/year. Now I'm formalizing the fundamentals to make engineering my core job.
 
-Right now I'm building my technical skills through structured, hands-on learning; starting with SQL and working through Linux, Networking, AWS, and Python over the next several months.
-
----
-
-## 🔭 What I'm Doing Now
-- 📊 Building SQL skills through daily practice and real-world analysis → [sql-practice](https://github.com/Syeda-Sameera-Unnissa/sql-practice)
-- 🗺️ Following a 22-week technical roadmap → [tech-transition-roadmap](https://github.com/Syeda-Sameera-Unnissa/tech-transition-roadmap)
-
-## 📅 What's Coming Next
-- Linux fundamentals & bash scripting
-- Networking & troubleshooting
-- AWS (targeting Cloud Practitioner certification)
-- Python for automation
-
-## 🎯 Target Roles
-- AWS Cloud Support Associate
-- Technical Support Engineer
-- IT Support Engineer
-
-## 💡 About My Approach
-I believe in learning by building, so each phase of my roadmap includes a hands-on project with real datasets and real tools. This GitHub is where I document that journey — including the messy parts.
-
-## 📫 Connect With Me
-- (https://www.linkedin.com/in/syeda-sameera/)
+B.Tech CSE (2017) · M.Tech CSE (in progress) · Based in Hyderabad, India
 
 ---
 
-*This profile is updated regularly as I progress through my learning roadmap.*
+## 🛠️ What I've Built (at Amazon)
+
+| Project | What it does | Impact |
+|---------|-------------|--------|
+| **Paragon Queue Advisor** | Hybrid LLM + rule-based case routing system (1,000+ SOP-derived rules) with feedback loop & regression testing | 92% reduction in misroute defects |
+| **Gridlock Case Retrieval** | Browser/desktop automation for SIM lookups | 2 min → <10 sec per task; ~616 hrs/yr saved |
+| **Carrier Email Automation** | Consolidated 3 data sources into normalized DB with auto-population | Adopted org-wide; ~233 hrs/yr saved |
+| **MCS Audit Classifier** | EfficientNetV2 computer-vision model for compliance detection | Owns dataset curation + training pipeline (AWS SageMaker) |
+
+---
+
+## 📚 What I'm Building Now
+
+I'm working through a structured technical roadmap — one skill at a time, each ending with a shipped artifact:
+
+| Phase | Focus | Repo |
+|-------|-------|------|
+| ✅ Done | SQL (SELECT → window functions → case studies) | [sql-practice](https://github.com/Syeda-Sameera-Unnissa/sql-practice) |
+| 🔄 Current | Python (fundamentals → automation → testing) | Coming soon |
+| ⏳ Next | Linux & Bash scripting | — |
+| ⏳ Next | Networking & APIs | — |
+| ⏳ Next | AWS (Cloud Practitioner) | — |
+| ⏳ Next | System Design | — |
+
+Full plan: [Tech-transition-roadmap](https://github.com/Syeda-Sameera-Unnissa/Tech-transition-roadmap)
+
+---
+
+## 🎯 Where I'm Headed
+
+- **Next role:** L4 Support Engineer / Systems Engineer
+- **Long-term:** SRE → Systems Dev Engineer; Cybersecurity/DFIR specialization
+- **Approach:** Learn by building. Every phase = a real project with real tools.
+
+---
+
+## 🧰 Skills
+
+**Languages:** Python · SQL · JavaScript · Bash  
+**Automation:** AutoHotkey · Tampermonkey · Browser automation · Excel VBA  
+**Data & ML:** SQL analysis · EfficientNetV2 · AWS SageMaker · Prompt engineering  
+**Practices:** Version control · Regression testing · RCA · Defect analysis · SOP design  
+**Learning:** Linux · Networking · REST APIs · System Design · DSA
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-syeda--sameera-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/syeda-sameera/)
+
+---
+
+*Building in public. Updated as I ship.*
